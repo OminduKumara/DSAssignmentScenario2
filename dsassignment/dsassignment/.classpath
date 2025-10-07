@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-23">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/audience-annotations-0.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/commons-cli-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jackson-annotations-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jackson-core-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jackson-databind-2.15.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-http-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-io-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-security-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-server-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-servlet-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-util-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jetty-util-ajax-9.4.53.v20231009.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/jline-2.14.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/logback-classic-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/logback-core-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/metrics-core-4.1.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-buffer-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-codec-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-common-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-handler-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-resolver-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-transport-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-transport-classes-epoll-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-transport-native-epoll-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/netty-transport-native-unix-common-4.1.105.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/simpleclient_common-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/simpleclient_hotspot-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/simpleclient_servlet-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/simpleclient-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/snappy-java-1.1.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/zookeeper-3.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/zookeeper-jute-3.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hesha/Downloads/lab6/zkconsensus/apache-zookeeper-3.8.4-bin/apache-zookeeper-3.8.4-bin/lib/zookeeper-prometheus-metrics-3.8.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
